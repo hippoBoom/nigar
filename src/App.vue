@@ -25,6 +25,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #999999;
+    font-size: 14px;
   }
 
   html, body, h1, h2, h3, h4, h5, h6, dl, dd, dt, p, ul, li {
